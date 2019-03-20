@@ -1,0 +1,27 @@
+1.What is a list box? a combo box?
+They hold lists of values
+2.Name and describe the three styles of combo boxes.
+Simple, drop-down, drop-down list
+3.How can you make scroll bars appear on a list box or combo box?
+If the items don’t fit into the box, C# automatically adds scroll bars
+4.Explain the purpose of the SelectedIndex property and the Items.Count property.
+To select an item in the list or to determine which item is selected
+Holds all elements of the list
+5.When and how is information placed inside a list box or a combo box?
+TextChanged
+6.In what situation would a loop be used in a method?
+A loop repeats statements or iterates through a list.
+7.Explain the difference between a pretest and a posttest in a loop.
+A pretest is like an entry test. It has to be true to start the loop.
+A posttest is like an exit test. It has to be true for the loop to end
+8.Explain the differences between a do and a while loop.
+Do loop does it once, while loop does it while something is true. Do doesn't check first. Does it first.
+9. Discuss how and when the values of the loop index change throughout the processing of the loop.
+It follows the sequence
+10. What is the purpose of the PrintDocument component? the PrintPreview- Dialog component?
+It can send program output to the printer
+To the string
+11. In what method do you write the logic for sending output to the printer?
+printDocument
+12. What is the purpose of the X and Y coordinates on a print page?
+To point where text goes.

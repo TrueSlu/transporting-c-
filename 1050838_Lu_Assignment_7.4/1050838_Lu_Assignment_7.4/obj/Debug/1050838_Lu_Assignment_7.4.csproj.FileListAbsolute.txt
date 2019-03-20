@@ -1,0 +1,10 @@
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\bin\Debug\1050838_Lu_Assignment_7.4.exe.config
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\bin\Debug\1050838_Lu_Assignment_7.4.exe
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\bin\Debug\1050838_Lu_Assignment_7.4.pdb
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\obj\Debug\1050838_Lu_Assignment_7.4.csprojAssemblyReference.cache
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\obj\Debug\_1050838_Lu_Assignment_7._4.Form1.resources
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\obj\Debug\_1050838_Lu_Assignment_7._4.Properties.Resources.resources
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\obj\Debug\1050838_Lu_Assignment_7.4.csproj.GenerateResource.cache
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\obj\Debug\1050838_Lu_Assignment_7.4.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\obj\Debug\1050838_Lu_Assignment_7.4.exe
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Assignment_7.4\1050838_Lu_Assignment_7.4\obj\Debug\1050838_Lu_Assignment_7.4.pdb

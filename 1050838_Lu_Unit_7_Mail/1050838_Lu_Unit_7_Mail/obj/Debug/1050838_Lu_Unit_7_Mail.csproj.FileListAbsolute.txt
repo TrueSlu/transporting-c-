@@ -1,0 +1,10 @@
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\bin\Debug\1050838_Lu_Unit_7_Mail.exe.config
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\bin\Debug\1050838_Lu_Unit_7_Mail.exe
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\bin\Debug\1050838_Lu_Unit_7_Mail.pdb
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\obj\Debug\1050838_Lu_Unit_7_Mail.csprojAssemblyReference.cache
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\obj\Debug\_1050838_Lu_Unit_7_Mail.Form1.resources
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\obj\Debug\_1050838_Lu_Unit_7_Mail.Properties.Resources.resources
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\obj\Debug\1050838_Lu_Unit_7_Mail.csproj.GenerateResource.cache
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\obj\Debug\1050838_Lu_Unit_7_Mail.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\obj\Debug\1050838_Lu_Unit_7_Mail.exe
+C:\cygwin64\home\Steven\Projects\Unit_7\1050838_Lu_Unit_7_Mail\1050838_Lu_Unit_7_Mail\obj\Debug\1050838_Lu_Unit_7_Mail.pdb
